@@ -1,6 +1,16 @@
 # Election-Voting---Ethereum-Blockchain-dApp
 Election Voting - Ethereum Blockchain dApp on the Ethereum Blockchain Network With MetaMask Developed a client-side web 
 
+Table of Content
+----------------
+* Demo
+* Overview
+* Motivation
+* Reason
+* Advantages
+* Installation Dependencies & Steps
+* Future scope of project
+
 Demo
 ------
 ![Blockchain - elction voting (1)](https://user-images.githubusercontent.com/41515202/94376696-d0a26780-0139-11eb-96a5-48cd739ef4a5.png)
@@ -17,12 +27,12 @@ Demo
 
 ![Blockchain - elction voting (7)](https://user-images.githubusercontent.com/41515202/94376707-d8620c00-0139-11eb-9864-dbc82b9005cb.png)
 
-What is it ??
----------------
+Overview / What is it ??
+----------------------------
 Election Voting dApp Using Ethereum Blockchain Network With MetaMask in Solidity, individually developed a client-side dApp web application that allows accounts to cast votes. Blockchain-based voting ecosystem allowing anyone anywhere to vote online from a digital device in a fully secure. 
 
-Why is it ??
--------------------
+Motiation / Why is it ??
+-----------------------------
 Ensure secure and transparent digital voting that votes are counted only once & cryptographically secured by SHA-256 hashing. It’s end-to-end verifiable voting technology eradicates fraud and corruption by creating a complete, auditable, undisputable, open and transparent record of the election on a custom blockchain. 
 
 3 pillars of blockchain for reason 
@@ -58,9 +68,8 @@ Advantages
 * Tension-less - Eliminating violence caused by questionable results.
 
 
-
-Dependencies
---------------
+Installation Dependencies
+---------------------------
 Step 1. Require mandatory dependencies
 ------------------------------------------
 Install these prerequisites to follow along with the tutorial.
@@ -99,3 +108,8 @@ Step 6. Run the Front End Application
 npm run dev Visit this URL in your browser: http://localhost:3000
 
 
+Future scope of project
+------------------------
+Can be more secure with upgraded technology
+
+powerful & next footprint-step of security and technology
