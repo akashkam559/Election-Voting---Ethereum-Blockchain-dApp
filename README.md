@@ -9,6 +9,7 @@ Table of Content
 * Reason
 * Advantages
 * Installation Dependencies & Steps
+* Result/Sumary
 * Future scope of project
 
 Demo
@@ -107,6 +108,17 @@ Step 6. Run the Front End Application
 ----------------------------------------
 npm run dev Visit this URL in your browser: http://localhost:3000
 
+Result/Summary
+---------------
+* Individually developed client-side dApp web app. that allows accounts to cast votes.
+
+* Allow anyone & anywhere to vote online from a digital device
+
+* Ensure secure and transparent digital voting that votes are counted only once &
+cryptographically secured by SHA-256 hashing.
+
+* End-to-end verifiable voting technology eradicates fraud and corruption & eliminate the
+current difficulties of offline-physical voting system by creating more efficient, less expensive
 
 Future scope of project
 ------------------------
